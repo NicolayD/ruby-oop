@@ -76,6 +76,8 @@ class TicTacBoard
 	end
 end
 
+=begin
+
 another_game = "yes"
 
 while another_game != "no"
@@ -151,3 +153,4 @@ while another_game != "no"
 		puts
 	end
 end
+=end
